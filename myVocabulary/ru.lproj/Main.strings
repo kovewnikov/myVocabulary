@@ -1,0 +1,72 @@
+
+/* Class = "IBUITabBarItem"; title = "Словарь"; ObjectID = "0H8-wO-wib"; */
+"0H8-wO-wib.title" = "Словарь";
+
+/* Class = "IBUITabBarItem"; title = "Добавить"; ObjectID = "0wu-6t-zGY"; */
+"0wu-6t-zGY.title" = "Добавить";
+
+/* Class = "IBUIButton"; normalTitle = "Удалить"; ObjectID = "6LD-hx-EVX"; */
+"6LD-hx-EVX.normalTitle" = "Удалить";
+
+/* Class = "IBUIViewController"; title = "First"; ObjectID = "CZ4-MO-1fc"; */
+"CZ4-MO-1fc.title" = "First";
+
+/* Class = "IBUILabel"; text = "Ориентация словаря"; ObjectID = "L6x-yl-S67"; */
+"L6x-yl-S67.text" = "Ориентация словаря";
+
+/* Class = "IBUISegmentedControl"; MNQ-VL-Dvh.segmentTitles[0] = "Алфавит"; ObjectID = "MNQ-VL-Dvh"; */
+"MNQ-VL-Dvh.segmentTitles[0]" = "Алфавит";
+
+/* Class = "IBUISegmentedControl"; MNQ-VL-Dvh.segmentTitles[1] = "Дата добавления"; ObjectID = "MNQ-VL-Dvh"; */
+"MNQ-VL-Dvh.segmentTitles[1]" = "Дата добавления";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "MkC-Hh-t9W"; */
+"MkC-Hh-t9W.text" = "Label";
+
+/* Class = "IBUIViewController"; title = "Second"; ObjectID = "QUy-BD-bpt"; */
+"QUy-BD-bpt.title" = "Second";
+
+/* Class = "IBUINavigationItem"; title = "Мой словарь"; ObjectID = "TVs-F2-p0b"; */
+"TVs-F2-p0b.title" = "Мой словарь";
+
+/* Class = "IBUINavigationItem"; title = "Добавить слово"; ObjectID = "VH7-qX-5Z8"; */
+"VH7-qX-5Z8.title" = "Добавить слово";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "YQo-LE-CwA"; */
+"YQo-LE-CwA.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "Добавить"; ObjectID = "Z7h-1E-pvt"; */
+"Z7h-1E-pvt.title" = "Добавить";
+
+/* Class = "IBUISegmentedControl"; d4Z-gn-8oU.segmentTitles[0] = "Англ | Рус"; ObjectID = "d4Z-gn-8oU"; */
+"d4Z-gn-8oU.segmentTitles[0]" = "Англ | Рус";
+
+/* Class = "IBUISegmentedControl"; d4Z-gn-8oU.segmentTitles[1] = "Рус | Англ"; ObjectID = "d4Z-gn-8oU"; */
+"d4Z-gn-8oU.segmentTitles[1]" = "Рус | Англ";
+
+/* Class = "IBUIButton"; normalTitle = "Добавить в словарь"; ObjectID = "m81-h2-E8L"; */
+"m81-h2-E8L.normalTitle" = "Добавить в словарь";
+
+/* Class = "IBUILabel"; text = "Сортировка"; ObjectID = "p5b-4Q-4v9"; */
+"p5b-4Q-4v9.text" = "Сортировка";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "tDM-sk-7bo"; */
+"tDM-sk-7bo.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "Словарь"; ObjectID = "u1e-5L-l1D"; */
+"u1e-5L-l1D.title" = "Словарь";
+
+/* Class = "IBUILabel"; text = "Направление перевода"; ObjectID = "uck-WO-pLb"; */
+"uck-WO-pLb.text" = "Направление перевода";
+
+/* Class = "IBUISegmentedControl"; vlO-XA-f1M.segmentTitles[0] = "Англ -> Рус"; ObjectID = "vlO-XA-f1M"; */
+"vlO-XA-f1M.segmentTitles[0]" = "Англ -> Рус";
+
+/* Class = "IBUISegmentedControl"; vlO-XA-f1M.segmentTitles[1] = "Рус -> Англ"; ObjectID = "vlO-XA-f1M"; */
+"vlO-XA-f1M.segmentTitles[1]" = "Рус -> Англ";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "x3s-lj-TqE"; */
+"x3s-lj-TqE.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "zcv-Vg-QCD"; */
+"zcv-Vg-QCD.text" = "Label";

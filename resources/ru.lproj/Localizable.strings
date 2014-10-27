@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  myVocabulary
+
+  Created by pkovewnikov on 24.10.14.
+  Copyright (c) 2014 pkovewnikov. All rights reserved.
+*/
+"ERROR_WORD" = "Ошибка";
+"OK_WORD" = "OK";
+"YES_WORD" = "Да";
+"NO_WORD" = "Нет";
+
+"RU_LANG"="Русский";
+"EN_LANG"="Английский";
+
+"ERROR_ADD_ALREADY_ADDED" = "Слово уже есть в вашем словаре";
+"ERROR_ADD_ADDED_WORD_NOT_MATCH_PICKED_LANG" = "Добавляемое слово не валидно";
+
+//server errros
+"ERROR_YANDEX_REQUEST_COMMON" = "Неизвестная ошибка";
+
+
+"ALERT_TITLE_REALLY_DELETE_WORD" = "Удалить слово";
+"ALERT_DESCRIPTION_REALLY_DELETE_WORD" = "Вы действительно хотите удалить это слово из словаря?";

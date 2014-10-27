@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  myVocabulary
+
+  Created by pkovewnikov on 24.10.14.
+  Copyright (c) 2014 pkovewnikov. All rights reserved.
+*/
+
+
+"ERROR_WORD" = "Error";
+"OK_WORD" = "OK";
+"YES_WORD" = "Yes";
+"NO_WORD" = "NO";
+
+"RU_LANG"="Russian";
+"EN_LANG"="English";
+
+"ERROR_ADD_ALREADY_ADDED" = "Word is already added in your vocabulary";
+"ERROR_ADD_ADDED_WORD_NOT_MATCH_PICKED_LANG" = "Added word is not valid";
+
+//server errros
+"ERROR_YANDEX_REQUEST_COMMON" = "Unexpectable error";
+
+
+"ALERT_TITLE_REALLY_DELETE_WORD" = "Delete word";
+"ALERT_DESCRIPTION_REALLY_DELETE_WORD" = "You are really want delete word from vocabulary?";
