@@ -74,7 +74,7 @@
 - (MVEntityWord*)findWordWithRussian:(NSString*)rusV english:(NSString*)engV {
     NSString* predStr;
     if(rusV) {
-        predStr = [NSString stringWithFormat:@"russian == '%@'", rusV];
+        predStr = [NSString stringWithFormat:@"russian == \"%@\"", rusV];
     }
     if(engV) {
         if(predStr) {
@@ -82,7 +82,7 @@
         } else {
             predStr = @"";
         }
-        predStr = [NSString stringWithFormat:@"%@english == '%@'", predStr, engV];
+        predStr = [NSString stringWithFormat:@"%@english == \"%@\"", predStr, engV];
     }
     return [MVEntityWord find:predStr];
 }

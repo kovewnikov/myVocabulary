@@ -22,7 +22,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "myVocabulary/MVRequestManager.m"
@@ -73,7 +73,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "147"
             endingLineNumber = "147"
-            landmarkName = "-showSettingsView:"
+            landmarkName = "-tryToExecuteTranslate:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -89,7 +89,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "50"
             endingLineNumber = "50"
-            landmarkName = "-viewDidLoad"
+            landmarkName = "-initWithNibName:bundle:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -105,7 +105,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "172"
             endingLineNumber = "172"
-            landmarkName = "-hideSettingsView:"
+            landmarkName = "-showSettingsView:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -121,7 +121,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "169"
             endingLineNumber = "169"
-            landmarkName = "-hideSettingsView:"
+            landmarkName = "-showSettingsView:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -153,7 +153,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "224"
             endingLineNumber = "224"
-            landmarkName = "-onSettingsTap:"
+            landmarkName = "-setCurrentViewMode:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -169,14 +169,14 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "229"
             endingLineNumber = "229"
-            landmarkName = "-onRemoveWordTap:"
+            landmarkName = "-setCurrentViewMode:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "myVocabulary/MVAddWordViewController.m"
@@ -185,7 +185,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "228"
             endingLineNumber = "228"
-            landmarkName = "-onRemoveWordTap:"
+            landmarkName = "-setCurrentViewMode:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -224,7 +224,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "myVocabulary/MVCoreDataManager.m"
@@ -393,8 +393,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "30"
             endingLineNumber = "30"
-            landmarkName = "@interface MVAddWordViewController"
-            landmarkType = "2">
+            landmarkName = "removeWordBtn"
+            landmarkType = "19">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -458,6 +458,22 @@
             startingLineNumber = "22"
             endingLineNumber = "22"
             landmarkName = "-awakeFromNib"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myVocabulary/MVAddWordViewController.m"
+            timestampString = "436942627.940179"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "-setCurrentViewMode:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
